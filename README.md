@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sajidsarker
 - 👀 I’m interested in Economics and Machine Learning
-- 🌱 I’m currently learning TensorFlow
 - 📫 Email: sajid.sarker@gmail.com
 - 📫 Twitter: @sajidsarker
 
