@@ -2,7 +2,7 @@
 - 👨‍🎓 I’m a Data Scientist, Game Developer, and Writer
 - 👀 I’m interested in Economics and Machine Learning
 - 📫 Email: sajid.sarker@gmail.com
-- 📫 Twitter: @sajidsarker
+- 📫 Twitter: [@sajidsarker](https://www.twitter.com/sajidsarker)
 
 <!---
 sajidsarker/sajidsarker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
