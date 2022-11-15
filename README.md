@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sajidsarker
 - 👨‍🎓 I’m a Data Scientist, Game Developer, and Writer
 - 👀 I’m interested in Economics and Machine Learning
+- ⌨️ Blog: [sajidsarker.github.io](https://sajidsarker.github.io)
 - 📫 Email: sajid.sarker@gmail.com
 - 📫 Twitter: [@sajidsarker](https://www.twitter.com/sajidsarker)
 
